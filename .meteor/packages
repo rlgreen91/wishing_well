@@ -21,3 +21,4 @@ velocity:console-reporter
 velocity:core
 velocity:html-reporter
 kadira:flow-router
+kadira:blaze-layout
